@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Delegation"
----
-
 # Delegation
 
 ## Property Delegation
