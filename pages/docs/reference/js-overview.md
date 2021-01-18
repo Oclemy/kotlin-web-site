@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Introduction"
-title: "Kotlin for JavaScript"
----
-
 # Kotlin/JS Overview
 
 Kotlin/JS provides the ability to transpile your Kotlin code, the Kotlin standard library, and any compatible dependencies to JavaScript. The current implementation of Kotlin/JS targets [ES5](https://www.ecma-international.org/ecma-262/5.1/).
