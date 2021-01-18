@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Dynamic Type"
----
-
 # Dynamic Type
 
 > The dynamic type is not supported in code targeting the JVM.
