@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: FAQ
-title: FAQ
----
-
 # FAQ
 
 ### What is Kotlin?
