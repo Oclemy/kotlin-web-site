@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Compatibility Guide for Kotlin 1.4"
----
-
 # Compatibility Guide for Kotlin 1.4
 
 [*Keeping the Language Modern* and *Comfortable Updates*](evolution/kotlin-evolution.html) are among the fundamental principles in Kotlin Language Design.
