@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Basic Types: Numbers, Strings, Arrays"
----
-
 # Basic Types
 
 In Kotlin, everything is an object in the sense that we can call member functions and properties on any variable.
