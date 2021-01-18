@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Collection Write Operations"
----
-
 # Collection Write Operations
 
 [Mutable collections](collections-overview.html#collection-types) support operations for changing the collection contents, for example, adding or removing elements.
