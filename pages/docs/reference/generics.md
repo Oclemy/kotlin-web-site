@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Generics: in, out, where"
----
-
 # Generics
 
 As in Java, classes in Kotlin may have type parameters:
