@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "JavaScript"
-title: "JavaScript Modules"
----
-
 # JavaScript Modules
 
 You can compile your Kotlin projects to JavaScript modules for various popular module systems. We currently support the following configurations for JavaScript modules:
