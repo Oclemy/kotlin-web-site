@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Interfaces"
----
-
 # Interfaces
 
 Interfaces in Kotlin can contain declarations of abstract methods, as well as method
