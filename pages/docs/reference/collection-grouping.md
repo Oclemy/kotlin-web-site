@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Grouping"
----
-
 # Grouping
 
 The Kotlin standard library provides extension functions for grouping collection elements.
