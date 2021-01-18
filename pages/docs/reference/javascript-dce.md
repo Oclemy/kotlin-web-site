@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "JavaScript"
-title: "JavaScript DCE"
----
-
 # JavaScript Dead Code Elimination (DCE)
 
 The Kotlin/JS Gradle plugin includes a [_dead code elimination_](https://wikipedia.org/wiki/Dead_code_elimination) (_DCE_) tool.
