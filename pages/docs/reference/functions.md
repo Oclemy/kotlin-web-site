@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Functions: infix, vararg, tailrec"
----
-
 # Functions
 
 ## Function declarations
