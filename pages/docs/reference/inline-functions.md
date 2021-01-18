@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Inline Functions and Reified Type Parameters"
----
-
 # Inline Functions
 
 Using [higher-order functions](lambdas.html) imposes certain runtime penalties: each function is an object, and it captures a closure,
