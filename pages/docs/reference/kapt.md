@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Using kapt"
----
-
 # Annotation Processing with Kotlin
 
 Annotation processors (see [JSR 269](https://jcp.org/en/jsr/detail?id=269)) are supported in Kotlin with the *kapt* compiler plugin.
