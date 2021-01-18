@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Ordering"
----
-
 # Collection Ordering
 
 The order of elements is an important aspect of certain collection types.
