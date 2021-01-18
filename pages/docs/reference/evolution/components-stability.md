@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Compatibility"
-title: "Stability of Kotlin Components"
----
-
 # Stability of Kotlin Components
 
 The Kotlin language and toolset are divided into many components such as the compilers for the JVM, JS and Native targets, the Standard Library, various accompanying tools and so on. Many of these components were officially released as **Stable** which means that they are evolved in the backward-compatible way following the [principles](kotlin-evolution.html) of *Comfortable Updates* and *Keeping the Language Modern*. Among such stable components are, for example, the Kotlin compiler for the JVM, the Standard Library, and Coroutines.
