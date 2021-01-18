@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Enum Classes"
----
-
 # Enum Classes
 
 The most basic usage of enum classes is implementing type-safe enums:
