@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Compiler Plugins"
----
-
 # Compiler Plugins
 
 * [All-open compiler plugin](#all-open-compiler-plugin)
