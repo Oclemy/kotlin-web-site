@@ -1,8 +1,3 @@
----
-layout: reference
-title: "Reference"
----
-
 # **Learn Kotlin**
 <div style="display: inline-flex; border: 1px solid rgb(229, 229, 229); border-radius: 40px;" >
  <div id="material" onmouseover="this.style.backgroundColor='#F0F0F0'" onmouseout="this.style.backgroundColor=''" style="cursor: pointer; padding: 1rem 2rem;border-radius: 40px; border: 1px solid transparent;" >All Materials</div>
