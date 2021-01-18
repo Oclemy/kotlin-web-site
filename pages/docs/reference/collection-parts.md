@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Retrieving Collection Parts"
----
-
 # Retrieving Collection Parts
 
 The Kotlin standard library contains extension functions for retrieving parts of a collection.
