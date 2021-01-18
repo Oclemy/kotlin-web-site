@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Introduction"
-title: "Kotlin for Android"
----
-
 # Using Kotlin for Android Development
 
 Android mobile development has been Kotlin-first since Google I/O in 2019.
