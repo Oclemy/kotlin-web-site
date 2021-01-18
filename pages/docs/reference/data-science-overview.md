@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Introduction"
-title: "Kotlin for Data Science"
----
-
 # Kotlin for Data Science
 
 From building data pipelines to productionizing machine learning models, Kotlin can be a great choice for 
