@@ -1,14 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Classes and Inheritance"
-related:
-    - functions.md
-    - nested-classes.md
-    - interfaces.md
----
-
 # Classes and Inheritance
 
 ## Classes
