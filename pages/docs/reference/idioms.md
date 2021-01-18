@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Basics"
-title: "Idioms"
----
-
 # Idioms
 
 A collection of random and frequently used idioms in Kotlin. If you have a favorite idiom, contribute it by sending a pull request.
