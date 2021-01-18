@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Java Interop"
-title: "Calling Java from Kotlin"
----
-
 # Calling Java code from Kotlin
 
 Kotlin is designed with Java Interoperability in mind. Existing Java code can be called from Kotlin in a natural way, and Kotlin code can be used from
