@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Compatibility"
-title: "Compatibility Modes"
----
-
 # Compatibility Modes
 
 When a big team is migrating onto a new version, it may appear in a "inconsistent state" at some point, when some developers have already updated, and others haven't. To prevent the former from writing and committing code that others may not be able to compile, we provide the following command line switches (also available in the IDE and [Gradle](https://kotlinlang.org/docs/reference/using-gradle.html#compiler-options)/[Maven](https://kotlinlang.org/docs/reference/using-maven.html#specifying-compiler-options)):   
