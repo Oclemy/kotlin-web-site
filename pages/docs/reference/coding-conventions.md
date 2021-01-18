@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: Basics
-title: Coding Conventions
----
-
 # Coding Conventions
 
 This page contains the current coding style for the Kotlin language.
