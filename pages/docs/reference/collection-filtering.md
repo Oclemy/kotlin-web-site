@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Filtering Collections"
----
-
 # Filtering
 
 Filtering is one of the most popular tasks in the collection processing.
