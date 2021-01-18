@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: Tools
-title: "Coding Conventions"
----
-
 # Code Style Migration Guide 
 
 
