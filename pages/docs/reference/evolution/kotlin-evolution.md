@@ -1,11 +1,3 @@
----
-type: doc
-layout: reference
-category: "Compatibility"
-title: "Kotlin Evolution"
----
-
-
 # Kotlin Evolution
 
 
