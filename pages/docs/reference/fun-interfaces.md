@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Functional interfaces (SAM interfaces)"
----
-
 # Functional (SAM) interfaces
 
 An interface with only one abstract method is called a _functional interface_, or a _Single Abstract
