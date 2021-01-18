@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "JavaScript"
-title: "JavaScript Reflection"
----
-
 # JavaScript Reflection
 
 At this time, JavaScript does not support the full Kotlin reflection API. The only supported part of the API
