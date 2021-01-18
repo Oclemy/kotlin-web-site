@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "JavaScript"
-title: "Calling Kotlin from JavaScript"
----
-
 # Calling Kotlin from JavaScript
 
 Depending on the selected [JavaScript Module](js-modules.html) system, the Kotlin/JS compiler generates different output. But in general, the Kotlin compiler generates normal JavaScript classes, functions and properties, which you can freely use from JavaScript code. There are some subtle things you should remember, though.
