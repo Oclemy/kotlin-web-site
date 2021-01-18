@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Introduction"
-title: "Coroutines Overview"
----
-
 # Coroutines for asynchronous programming and more
 
 Asynchronous or non-blocking programming is the new reality. Whether we're creating server-side, desktop or mobile applications, it's important 
