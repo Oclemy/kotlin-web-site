@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Plus and Minus Operators"
----
-
 # `plus` and `minus` Operators
 
 In Kotlin, [`plus`](/api/latest/jvm/stdlib/kotlin.collections/plus.html) (`+`) and [`minus`](/api/latest/jvm/stdlib/kotlin.collections/minus.html) (`-`) operators are defined for collections.
