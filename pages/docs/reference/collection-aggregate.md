@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Aggregate Operations"
----
-
 # Collection Aggregate Operations
 
 Kotlin collections contain functions for commonly used _aggregate operations_ – operations that return a single value based on the collection content.
