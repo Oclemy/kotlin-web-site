@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Basics"
-title: "Basic Syntax"
----
-
 # Basic Syntax
 
 {:#defining-packages}
