@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Retrieving Single Elements"
----
-
 # Retrieving Single Elements
 
 Kotlin collections provide a set of functions for retrieving single elements from collections.
