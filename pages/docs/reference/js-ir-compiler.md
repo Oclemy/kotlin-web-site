@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "JavaScript"
-title: "Using the IR compiler"
----
 # Using the Kotlin/JS IR compiler
 
 > As of Kotlin 1.4.0, the Kotlin/JS IR compiler has _[Alpha](evolution/components-stability.html)_ stability level. You are welcome to use the IR compiler backend, but all of the functionality, language and tooling features described in this document are subject to change in future Kotlin versions.
