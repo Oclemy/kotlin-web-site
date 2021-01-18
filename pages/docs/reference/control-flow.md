@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Control Flow: if, when, for, while"
----
-
 # Control Flow: if, when, for, while
 
 ## If Expression
