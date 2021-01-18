@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Extensions"
----
-
 # Extensions
 
 Kotlin provides the ability to extend a class with new functionality
