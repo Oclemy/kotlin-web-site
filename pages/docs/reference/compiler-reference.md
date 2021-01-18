@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Kotlin Compiler Options"
----
-
 # Kotlin Compiler Options
 
 Each release of Kotlin includes compilers for the supported targets: 
