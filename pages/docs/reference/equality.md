@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Other"
-title: "Equality"
----
-
 # Equality
 
 In Kotlin there are two types of equality:
