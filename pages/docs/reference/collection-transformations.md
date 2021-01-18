@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Collection Transformation Operations"
----
-
 # Collection Transformations
 
 The Kotlin standard library provides a set of extension functions for collection _transformations_.
