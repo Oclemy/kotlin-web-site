@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Compatibility"
-title: "Stability of Kotlin Components (pre 1.4)"
----
-
 # Stability of Kotlin Components (pre 1.4)
 
 There can be different modes of stability depending of how quickly a component is evolving:
