@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Constructing Collections"
----
-
 # Constructing Collections
 
 ## Constructing from elements
