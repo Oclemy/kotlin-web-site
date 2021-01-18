@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Delegated Properties"
----
-
 # Delegated Properties
 
 There are certain common kinds of properties, that, though we can implement them manually every time we need them, 
