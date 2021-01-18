@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Classes and Objects"
-title: "Data Classes"
----
-
 # Data Classes
 
 We frequently create classes whose main purpose is to hold data.
