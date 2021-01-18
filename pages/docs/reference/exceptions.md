@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Exceptions: try, catch, finally, throw, Nothing"
----
-
 # Exceptions
 
 ## Exception Classes
