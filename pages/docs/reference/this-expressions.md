@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "This expressions"
----
-
 # This Expression
 
 To denote the current _receiver_, we use *this*{: .keyword } expressions:
