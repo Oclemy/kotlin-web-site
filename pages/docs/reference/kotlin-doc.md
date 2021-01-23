@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Tools"
-title: "Documenting Kotlin Code"
----
 
 # Documenting Kotlin Code
 
