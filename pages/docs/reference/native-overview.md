@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Introduction"
-title: "Kotlin/Native"
----
 
 # Kotlin/Native for Native
 
