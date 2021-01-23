@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Serialization"
----
-
 # Serialization
 
 _Serialization_ is the process of converting data used by an application to a format that can be transferred over a network
