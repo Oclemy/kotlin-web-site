@@ -1,13 +1,3 @@
----
-type: tutorial
-layout: tutorial
-title: "Debug coroutines using IntelliJ IDEA"
-description: "This tutorial demonstrates how to create Kotlin coroutines and debug them using IntelliJ IDEA."
-authors: Andrey Polyakov
-date: 2020-09-17
-showAuthorInfo: false
----
-
 The tutorial assumes you have prior knowledge of the [coroutines](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html) concept.
 
 > Debugging works for `kotlinx-coroutines-core` version 1.3.8 or later.
