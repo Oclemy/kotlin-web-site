@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Create a multiplatform library"
----
 
 # Create a multiplatform library
 
