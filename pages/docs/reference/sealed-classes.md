@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Classes and Objects"
-title: "Sealed Classes"
----
-
 # Sealed Classes
 
 Sealed classes are used for representing restricted class hierarchies, when a value can have one of the types from a
