@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Share code on platforms"
----
 
 # Share code on platforms
 
