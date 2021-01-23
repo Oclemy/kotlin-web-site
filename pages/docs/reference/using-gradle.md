@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Using Gradle"
----
-
 # Using Gradle
 
 In order to build a Kotlin project with Gradle, you should [apply the Kotlin Gradle plugin to your project](#plugin-and-versions)
