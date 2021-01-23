@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Configure compilations"
----
 
 # Configure compilations
 
