@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "Kotlin plugin releases"
----
-
 # Kotlin plugin releases
 
 The [IntelliJ Kotlin plugin](https://plugins.jetbrains.com/plugin/6954-kotlin) and [IntelliJ IDEA](https://www.jetbrains.com/idea/) are now on the same release cycle. To speed up the testing and delivery of new features, the plugin and the platform have been moved to the same codebase and ship simultaneously. Kotlin releases happen independently according to the [new release cadence](https://blog.jetbrains.com/kotlin/2020/10/new-release-cadence-for-kotlin-and-the-intellij-kotlin-plugin/).
