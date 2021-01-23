@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Reflection"
----
 
 # Reflection
 
