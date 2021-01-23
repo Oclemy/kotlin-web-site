@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Discover your project"
----
 
 # Discover your project
 
