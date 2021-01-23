@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Introduction"
-title: "Kotlin for Server Side"
----
-
 # Using Kotlin for Server-side Development
 
 Kotlin is a great fit for developing server-side applications, allowing you to write concise and expressive code while
