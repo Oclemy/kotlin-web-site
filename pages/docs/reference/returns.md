@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Returns and Jumps: break and continue"
----
-
 # Returns and Jumps
 
 Kotlin has three structural jump expressions:
