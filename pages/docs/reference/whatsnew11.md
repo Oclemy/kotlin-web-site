@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "What's New in Kotlin 1.1"
----
-
 # What's New in Kotlin 1.1
 
 ## Table of Contents
