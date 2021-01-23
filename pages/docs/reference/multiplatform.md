@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Other"
-title: "Multiplatform programming"
----
 
 # Multiplatform programming
 
