@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Classes and Objects"
-title: "Visibility Modifiers"
----
-
 # Visibility Modifiers
 
 Classes, objects, interfaces, constructors, functions, properties and their setters can have _visibility modifiers_.
