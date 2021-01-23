@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Opt-in Requirements"
----
 
 # Opt-in Requirements
 
