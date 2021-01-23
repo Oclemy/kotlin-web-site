@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "Sequences"
----
-
 # Sequences
 
 Along with collections, the Kotlin standard library contains another container type – _sequences_ ([`Sequence<T>`](/api/latest/jvm/stdlib/kotlin.sequences/-sequence/index.html)).
