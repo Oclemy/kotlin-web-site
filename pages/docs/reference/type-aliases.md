@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Other"
-title: "Type aliases (since 1.1)"
----
-
 ## Type aliases
 
 Type aliases provide alternative names for existing types.
