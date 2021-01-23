@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Other"
-title: "Destructuring Declarations"
----
 
 # Destructuring Declarations
 
