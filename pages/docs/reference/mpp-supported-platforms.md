@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Supported platforms"
----
 
 # Supported platforms
 
