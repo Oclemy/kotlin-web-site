@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-title: "Operator overloading"
-category: "Syntax"
----
-
 # Operator overloading
 
 Kotlin allows us to provide implementations for a predefined set of operators on our types. These operators have fixed symbolic representation
