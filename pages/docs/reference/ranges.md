@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Ranges and Progressions"
----
-
 # Ranges and Progressions
 
 Kotlin lets you easily create ranges of values using the [`rangeTo()`](/api/latest/jvm/stdlib/kotlin.ranges/range-to.html) function from the `kotlin.ranges` package and its operator form `..`.
