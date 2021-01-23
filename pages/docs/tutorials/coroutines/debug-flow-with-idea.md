@@ -1,12 +1,3 @@
----
-type: tutorial
-layout: tutorial
-title: "Debug Kotlin Flow using IntelliJ IDEA"
-description: "This tutorial demonstrates how to create Kotlin Flow and debug it using IntelliJ IDEA."
-authors: Andrey Polyakov
-date: 2020-09-15
-showAuthorInfo: false
----
 
 The tutorial assumes you have prior knowledge of the [coroutines](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html) and [Kotlin Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html#flows) concepts.
 
