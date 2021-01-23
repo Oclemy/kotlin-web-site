@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-title: "Using Ant"
-description: "This tutorial walks you through different scenarios when using Ant for building applications that contain Kotlin code"
----
-
 # Using Ant
 
 ## Getting the Ant Tasks
