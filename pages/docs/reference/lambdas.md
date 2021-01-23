@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Higher-Order Functions and Lambdas"
----
 
 # Higher-Order Functions and Lambdas
 
