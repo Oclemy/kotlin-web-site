@@ -1,11 +1,3 @@
----
-type: tutorial
-layout: tutorial
-title: "Asynchronous Programming Techniques"
-description: "This tutorial explains the different approaches to asynchronous programming"
-authors: Hadi Hariri
-showAuthorInfo: false
----
 
 For decades, as developers we are confronted with a problem to solve - how to prevent our applications from blocking. Whether 
 we're developing desktop, mobile, or even server-side applications, we want to avoid having the user wait or what's worse cause 
