@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Kotlin Multiplatform Gradle DSL Reference"
----
 
 # Kotlin Multiplatform Gradle DSL Reference
 
