@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Type-Safe Builders"
----
-
 # Type-Safe Builders
 
 By using well-named functions as builders in combination with [function literals with receiver](lambdas.html#function-literals-with-receiver) it is possible to create type-safe, statically-typed builders in Kotlin.
