@@ -1,11 +1,3 @@
----
-type: tutorial
-layout: tutorial
-title: "Your first coroutine with Kotlin"
-description: "This tutorial walks us through setting up a project using coroutines, and writing code that uses them."
-authors: Dmitry Jemerov
-showAuthorInfo: false
----
 
 Kotlin 1.1 introduced coroutines, a new way of writing asynchronous, non-blocking code (and much more). In this tutorial we will go through some basics of using Kotlin coroutines with the help of the `kotlinx.coroutines` library, which is a collection of helpers and wrappers for existing Java libraries.
 
