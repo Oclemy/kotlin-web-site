@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Collections"
-title: "List Specific Operations"
----
-
 # List Specific Operations
 
 [`List`](collections-overview.html#list) is the most popular type of built-in collection in Kotlin. Index access to the elements of lists provides a powerful set of operations for lists. 
