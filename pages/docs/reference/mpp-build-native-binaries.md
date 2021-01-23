@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Build final native binaries"
----
 
 # Build final native binaries
 
