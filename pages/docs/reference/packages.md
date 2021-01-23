@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Packages and Imports"
----
-
 # Packages
 
 A source file may start with a package declaration:
