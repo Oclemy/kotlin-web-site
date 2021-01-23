@@ -1,9 +1,3 @@
----
-type: doc
-layout: reference
-title: "What's New in Kotlin 1.4.20"
----
-
 # What's New in Kotlin 1.4.20
 
 Kotlin 1.4.20 offers a number of new experimental features and provides fixes and improvements for
