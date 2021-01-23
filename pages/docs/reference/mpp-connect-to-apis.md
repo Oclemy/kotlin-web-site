@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Connect to platform-specific APIs"
----
 
 # Connect to platform-specific APIs
 
