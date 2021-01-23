@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Publish a multiplatform library"
----
 
 # Publish a multiplatform library
 
