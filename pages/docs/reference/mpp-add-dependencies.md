@@ -1,8 +1,3 @@
----
-type: doc
-layout: reference
-title: "Add dependencies"
----
 
 # Add dependencies
 
