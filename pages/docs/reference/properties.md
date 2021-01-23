@@ -1,10 +1,3 @@
----
-type: doc
-layout: reference
-category: "Syntax"
-title: "Properties: Getters, Setters, const, lateinit"
----
-
 # Properties
 
 ## Declaring Properties
