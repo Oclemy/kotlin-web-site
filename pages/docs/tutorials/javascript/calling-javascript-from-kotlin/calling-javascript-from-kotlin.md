@@ -1,13 +1,3 @@
----
-type: tutorial
-layout: tutorial
-title:  "Calling JavaScript from Kotlin"
-description: "A look at how to work with JavaScript from Kotlin"
-authors: Hadi Hariri 
-date: 2016-10-07
-showAuthorInfo: false
----
-
 When targeting JavaScript with Kotlin, we can interoperate by 
 
 * Calling Kotlin from JavaScript
